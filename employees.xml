@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="EMP101">
+    <name>Aarav Sharma</name>
+    <department>Engineering</department>
+    <designation>Senior Backend Engineer</designation>
+    <salary>1850000</salary>
+  </employee>
+  <employee id="EMP102">
+    <name>Priya Nair</name>
+    <department>Product</department>
+    <designation>Product Manager</designation>
+    <salary>2100000</salary>
+  </employee>
+  <employee id="EMP103">
+    <name>Rohan Deshmukh</name>
+    <department>Design</department>
+    <designation>Lead UI/UX Designer</designation>
+    <salary>1450000</salary>
+  </employee>
+  <employee id="EMP104">
+    <name>Ananya Iyer</name>
+    <department>Engineering</department>
+    <designation>Frontend Developer</designation>
+    <salary>1280000</salary>
+  </employee>
+  <employee id="EMP105">
+    <name>Vikramaditya Rao</name>
+    <department>Finance</department>
+    <designation>Financial Analyst</designation>
+    <salary>1120000</salary>
+  </employee>
+</employees>

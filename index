@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Information</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Employee Information System</h1>
+        <p>Employee Details from XML File</p>
+
+        <button onclick="loadXML()">Load Employee Data</button>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Department</th>
+                    <th>Designation</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+
+            <tbody id="employeeData">
+                <tr>
+                    <td colspan="5">Click Load Employee Data</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
